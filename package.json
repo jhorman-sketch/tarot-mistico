@@ -1,0 +1,8 @@
+{
+  "name": "tarot-mistico",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "openai": "^4.80.0"
+  }
+}
